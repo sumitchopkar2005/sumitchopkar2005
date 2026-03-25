@@ -44,11 +44,3 @@
 `Git` `Postman` `Kaggle` `VS Code` `n8n` `Firebase`
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitchopkar2005&show_icons=true&theme=dark" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchopkar2005&layout=compact&theme=dark" alt="Languages" />
-</p>
