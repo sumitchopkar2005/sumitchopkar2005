@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=32&center=true&vCenter=true&width=750&height=80&pause=1000&lines=Hey+There+👋,+I'm+Sumit+Chopkar;Aspiring+AI+Engineer+🤖;Full+Stack+Web+Developer+🌐;DSA+Enthusiast+📊;Backend+Developer+⚙️;DevOps+Developer+🚀">
 </p>
 
+<p align="center">
+  <b>Aspiring AI Engineer | Backend-Focused Full Stack Developer | DevOps Learner</b>
+</p>
+
 | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sumitchopkar2005) | [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumit-chopkar-867b1a293/) | [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sumitchopkar828@gmail.com) |
 | :---: | :---: | :---: |
 
@@ -38,7 +42,7 @@
 `MongoDB` `REST APIs` `Tailwind CSS`
 
 ### ⚙️ DevOps & Cloud
-`Docker` `AWS` `Google Cloud` `CI/CD (Basics)`
+`Docker` `AWS` `Google Cloud` `CI/CD (Basics)` `Github Actions`
 
 ### 🧰 Tools & Platforms
 `Git` `Postman` `Kaggle` `VS Code` `n8n` `Firebase`
