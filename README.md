@@ -27,11 +27,11 @@
 `Python` `JavaScript` `C++` `SQL`
 
 ### 🤖 Artificial Intelligence
-`LangChain` `LangGraph` `LangFuse` `n8n`
+`LangChain` `LangGraph` `LangFuse` `RAG` 
 
 ### 📊 Machine Learning
 `Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow`  
-`Matplotlib` `Seaborn` `OpenCV`
+`Matplotlib` `Seaborn` `OpenCV` `PyTorch` 
 
 ### 🌐 Web Development
 `React` `Next.js` `Node.js` `Express.js`  
@@ -41,14 +41,14 @@
 `Docker` `AWS` `Google Cloud` `CI/CD (Basics)`
 
 ### 🧰 Tools & Platforms
-`Git` `Postman` `Kaggle` `VS Code`
+`Git` `Postman` `Kaggle` `VS Code` `n8n` `Firebase`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitchopkar2005&show_icons=true&theme=dark" alt="Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchopkar2005&layout=compact&theme=dark" alt="Languages" />
 </p>
