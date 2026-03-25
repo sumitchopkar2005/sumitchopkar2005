@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=32&center=true&vCenter=true&width=750&height=80&pause=1000&lines=Hey+There+👋,+I'm+Sumit+Chopkar;Aspiring+AI+Engineer+🤖;Full+Stack+Web+Developer+🌐;DSA+Enthusiast+📊;Backend+Developer+⚙️;DevOps+Developer+🚀">
 </p>
 
-| [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YOUR_USERNAME) | [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN) | [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:YOUR_EMAIL@gmail.com) |
+| [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sumitchopkar2005) | [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumit-chopkar-867b1a293/) | [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sumitchopkar828@gmail.com) |
 | :---: | :---: | :---: |
 
 </div>
 
 ## 👨‍💻 About Me
 
-- 🎓 **[Your Degree]** student at **[Your College]**.
+- 🎓 **B.Tech** student at **SGGSIE&T Nanded**.
 - 💡 Strong interest in **AI Engineering, Backend Systems, and Web Development**.
 - 🚀 Passionate about solving complex problems through **Data Structures and Algorithms**.
 - 💬 Feel free to ask me anything related to **Python, JavaScript, or AI**.
