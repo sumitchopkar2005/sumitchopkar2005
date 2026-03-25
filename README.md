@@ -9,21 +9,39 @@
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech** student at **SGGSIE&T Nanded**.
-- 💡 Strong interest in **AI Engineering, Backend Systems, and Web Development**.
-- 🚀 Passionate about solving complex problems through **Data Structures and Algorithms**.
-- 💬 Feel free to ask me anything related to **Python, JavaScript, or AI**.
+- 🎓 B.Tech student at **SGGSIE&T, Nanded**
+- 🤖 Interested in **AI Engineering, Backend Systems, and Full Stack Development**
+- 🧠 Love solving problems using **Data Structures & Algorithms**
+- 🚀 Currently exploring **DevOps, Cloud, and Scalable System Design**
+- 💬 Ask me about **Web Development, Backend, DevOps, AI, or Computer Science**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, JavaScript, C++, SQL
-- **AI & Data:** TensorFlow, PyTorch, Scikit-learn
-- **Web Dev:** React, Node.js, Express, MongoDB
-- **Tools:** Git, Docker, Postman
+### 💻 Languages
+`Python` `JavaScript` `C++` `SQL`
+
+### 🤖 Artificial Intelligence
+`LangChain` `LangGraph` `LangFuse` `n8n`
+
+### 📊 Machine Learning
+`Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow`  
+`Matplotlib` `Seaborn` `OpenCV`
+
+### 🌐 Web Development
+`React` `Next.js` `Node.js` `Express.js`  
+`MongoDB` `REST APIs` `Tailwind CSS`
+
+### ⚙️ DevOps & Cloud
+`Docker` `AWS` `Google Cloud` `CI/CD (Basics)`
+
+### 🧰 Tools & Platforms
+`Git` `Postman` `Kaggle` `VS Code`
 
 ---
 
